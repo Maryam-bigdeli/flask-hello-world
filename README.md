@@ -12,3 +12,7 @@
 4. The difference between development and production environments
 
 5. How to prepare a Python project for deployment
+
+
+
+📝 Added extra details about deployment setup.

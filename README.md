@@ -1,7 +1,6 @@
 # My Local Project
 
-
-**This task helped me understand:
+##This task helped me understand:
 
 1. How to create and run a basic Flask app
 
